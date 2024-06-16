@@ -1,7 +1,6 @@
 name: Run Data Sync
 
 on:
-  
   schedule:
     - cron: "*/5 * * * *"
   push:
